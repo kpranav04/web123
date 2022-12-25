@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <head>
@@ -9,9 +9,9 @@
 </head>
 
 <body>
-    <table>
+    
         <pre><h1 style="color: cadetblue;font-style: italic;border: 1px;border-color: blacklo;">               Registration Form</h1></pre>
-        <form action="php"> Name : <input type="text" style="border-radius: 4px;"></div><br><div>         </div><br>
+        <form action="php"> Name : <input type="text" style="border-radius: 4px;"><br>        <br>
             <!-- in background color to change color of that text we can write background-color: rgb(234, 232, 232);color:red;border-radius:5px... -->
            <div>Class : &nbsp;<select name="1"
                     style="background-color: rgb(234, 232, 232);border-radius: 4px;border-radius: 4px;" id="year">
@@ -42,8 +42,8 @@
 
 
 
-        </form>
-    </table>
+        
+    
 
 </body>
 
